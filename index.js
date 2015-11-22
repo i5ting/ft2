@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
   res.send('Hello World')
 })
 // 随机端口3000 - 10000 之间
-app.listen(5000)
+app.listen(4001)
 
-open("http://127.0.0.1:5000");
+open("http://127.0.0.1:4001");
 
