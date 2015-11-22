@@ -1,7 +1,7 @@
 {
-  "name": "cgo",
+  "name": "frontendtutorial",
   "version": "1.0.2",
-  "description": "hyperpolyglot.org",
+  "description": "frontend tutorial",
   "main": "index.js",
   "scripts": {
     "start":"npm publish .",

@@ -1,15 +1,15 @@
-# cgo 
+# frontendtutorial 
 
 language syntax compare
 
 ## Install 
 
-    [sudo] npm install -g cgo
+    [sudo] npm install -g frontendtutorial
   
 ## Usage
 
 in terminal 
 
 ```
-  cgo
+ft
 ```
