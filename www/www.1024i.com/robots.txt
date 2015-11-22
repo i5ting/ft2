@@ -1,0 +1,10 @@
+User-agent: Baiduspider
+Disallow: 
+User-agent: Googlebot
+Disallow: 
+User-agent: Sosospider
+Disallow: 
+User-agent: sogou spider
+Disallow: 
+User-agent: *
+Disallow: /
