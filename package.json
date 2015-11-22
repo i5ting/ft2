@@ -1,6 +1,6 @@
 {
   "name": "frontendtutorial",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "frontend tutorial",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "myc": "index.js",
-    "cgo": "index.js"
+    "ft": "index.js",
+    "frontendtutorial": "index.js"
   },
   "author": "",
   "license": "ISC",
