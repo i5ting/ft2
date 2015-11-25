@@ -9,7 +9,7 @@
 
 ## Install 
 
-    [sudo] npm install -g frontendtutorial
+    [sudo] npm install -g ft2
   
 ## Usage
 

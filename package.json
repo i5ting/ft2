@@ -1,6 +1,6 @@
 {
-  "name": "frontendtutorial",
-  "version": "1.0.4",
+  "name": "ft2",
+  "version": "1.0.5",
   "description": "frontend tutorial",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "preferGlobal": "true",
   "bin": {
     "ft": "index.js",
-    "frontendtutorial": "index.js"
+    "ft2": "index.js"
   },
   "author": "",
   "license": "ISC",
