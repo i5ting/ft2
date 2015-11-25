@@ -1,11 +1,11 @@
 # frontend tutorials
 
-前端教程
+本地查看前端相关教程
 
 已有教程
 
-- html和css编码规范
-- less入门
+- [html和css编码规范](Standards for flexible, durable, and sustainable HTML and CSS. http://codeguide.co)
+- [less入门](http://www.1024i.com/demo/less/)
 
 ## Install 
 
@@ -17,4 +17,10 @@ in terminal
 
 ```
 ft
+```
+
+在浏览器中打开
+
+```
+http://127.0.0.1:4001/
 ```
