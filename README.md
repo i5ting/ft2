@@ -4,7 +4,7 @@
 
 已有教程
 
-- [html和css编码规范](Standards for flexible, durable, and sustainable HTML and CSS. http://codeguide.co)
+- [html和css编码规范](http://codeguide.co)
 - [less入门](http://www.1024i.com/demo/less/)
 
 ## Install 
